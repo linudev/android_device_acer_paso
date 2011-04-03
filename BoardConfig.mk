@@ -27,7 +27,7 @@
 # inherit from the proprietary version
 -include vendor/acer/paso/BoardConfigVendor.mk
 
-TARGET_NO_BOOTLOADER := trueT
+TARGET_NO_BOOTLOADER := true
 ARGET_NO_KERNEL := true
 TARGET_NO_RADIOIMAGE := true
 
